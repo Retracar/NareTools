@@ -2,7 +2,7 @@
 
 | 组件 | 版本 | 安装包 | 使用说明 |
 | --- | --- | --- | --- |
-| Cleaner | 1.0.0 | [Windows x64](https://github.com/Retracar/NareTools/releases/download/v1.0.0/NareTools-1.0.0-Setup-x64.exe) | [说明](Windows/Cleaner/使用说明.md) |
+| Cleaner | 1.0.1 | [Windows x64](https://github.com/Retracar/NareTools/releases/download/v1.0.1/NareTools-1.0.1-Setup-x64.exe) | [说明](Windows/Cleaner/使用说明.md) |
 
 安装文件存放在 GitHub Releases，避免把大型二进制文件写入文档仓库历史。[查看全部版本](https://github.com/Retracar/NareTools/releases)。
 
