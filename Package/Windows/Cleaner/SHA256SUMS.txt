@@ -1,1 +1,1 @@
-17e15fcc07c1c1c4fd563cda746850ae5fc30308d998cc21fe1b95e65d88d500  NareTools-1.1.1-Setup-x64.exe
+c3c505a56c4796559c4b97cc69edaf7c2c5b76a8df66de9831f953336c06a092  NareTools-1.2.0-Setup-x64.exe
